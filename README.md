@@ -40,7 +40,7 @@ Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, joblib, and Power B
 Installation -
 Clone the repository:
 bash
-git clone https://github.com/yourusername/fifa-world-cup-analysis.git
+https://github.com/Revati07/FIFA-World-Cup-Analysis
 cd fifa-world-cup-analysis
 
 Install the required Python libraries:
